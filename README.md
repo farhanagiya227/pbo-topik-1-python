@@ -17,7 +17,7 @@ Kumpulkan dalam link Github/Replit
 #Anggota Kelompok
 
 1. Farhan Agiya Pratama (A710240044)
-2. 
+2. Arvin Maulana
 #class yang dibuat :
 - Karyawan
   
