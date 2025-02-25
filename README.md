@@ -18,6 +18,7 @@ Kumpulkan dalam link Github/Replit
 
 1. Farhan Agiya Pratama (A710240044)
 2. Arvin Maulana
+   
 #class yang dibuat :
 - Karyawan
   
