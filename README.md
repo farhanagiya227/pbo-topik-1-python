@@ -22,5 +22,5 @@ Kumpulkan dalam link Github/Replit
 - Karyawan
   
 #cara menggunakan
-1. Download file 'pbo topik1 .py'
-2. Jalankan dengan Python 3 : 'pbo topik1 .py
+1. Download file 'class karyawan.py'
+2. Jalankan dengan Python 3 : 'class karyawan.py
